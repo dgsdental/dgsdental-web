@@ -88,9 +88,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Images\cosmetic-dentistry.svg" />
+    <Content Include="Content\Images\general_dentistry.svg" />
     <Content Include="Content\Images\menu-logo-3.png" />
     <Content Include="Content\Images\menu-logo.png" />
     <Content Include="Content\Images\menu-logo-2.png" />
+    <Content Include="Content\Images\surgical_dentistry.svg" />
     <Content Include="Content\Images\user-default.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
@@ -111,6 +114,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Index\Index.cshtml" />
     <Content Include="Views\Shared\_Team.cshtml" />
+    <Content Include="Views\Shared\_About.cshtml" />
+    <Content Include="Views\Shared\_Services.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
